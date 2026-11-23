@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Huddle
+Exec=huddle
+Icon=io.github.rikelry.Huddle
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
